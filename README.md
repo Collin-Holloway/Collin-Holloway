@@ -21,10 +21,7 @@ Creative, detail-oriented, software engineer with a deep interest in developing 
   <a href="https://github.com/Collin-Holloway/Safe-Bank-Landing-Page" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="#">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
+     </p>
         <p><strong>Javascript, CSS, Sass, & HTML</strong> - An accesable banking platform that is tablet, phone, and desktop ready.</p>
     </td>
     <td width="50%" valign="top">
@@ -39,10 +36,7 @@ Creative, detail-oriented, software engineer with a deep interest in developing 
   <a href="https://github.com/Collin-Holloway/Movie-Search-Database" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="#w" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
+     </p>
         <p><strong>Javascript, CSS, MongoDB, and HTML</strong> - A simple yet efficient movie search database. See the imporant information.</p>
     </td>
   </tr>
