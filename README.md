@@ -72,7 +72,7 @@ Creative, detail-oriented, software engineer with a deep interest in developing 
 
 
 <p align="center">
-    <a href="https://shawncharles.com/linkedin" target="_blank">
+    <a href="https://www.linkedin.com/in/collinholloway/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   </p>
