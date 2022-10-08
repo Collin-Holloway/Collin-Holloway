@@ -13,7 +13,7 @@ Creative, detail-oriented, software engineer with a deep interest in developing 
       <h3 align="center">Safe Bank Landing Page</h3>
         <br />
         <a target="_blank" href="https://texaseasybank.netlify.app">
-            <img src="#" width="100%" alt=""/>
+           <img src="demo/easybank.gif" width="500" height="%100"/>
         </a>
         <br />
         <p align="center">
