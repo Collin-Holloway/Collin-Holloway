@@ -1,6 +1,6 @@
 
 
-Creative, detail-oriented, software engineer with a deep interest in developing and optimizing feature-rich websites. 
+Creative, detail-oriented, Front-end Developer with a deep interest in developing and optimizing feature-rich websites. 
 
 
 
