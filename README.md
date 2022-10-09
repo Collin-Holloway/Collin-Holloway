@@ -1,6 +1,6 @@
 
 
-Creative, detail-oriented, software engineer with a deep interest in developing and optimizing feature-rich websites. Proven track record of creating and implementing successful front and back-end web applications..
+Creative, detail-oriented, software engineer with a deep interest in developing and optimizing feature-rich websites. 
 
 
 
