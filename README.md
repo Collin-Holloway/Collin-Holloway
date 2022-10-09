@@ -43,7 +43,7 @@ Creative, detail-oriented, software engineer with a deep interest in developing 
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
      </p>
-        <p><strong>Javascript, CSS, and HTML</strong> - A simple yet efficient movie search database. See the imporant information.</p>
+        <p><strong>Javascript, CSS, and HTML</strong> - A menu concept for a resturant in Mansfield. Browse popular dishes based on the meal type.</p>
     </td>
   </tr>
   
