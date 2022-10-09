@@ -13,7 +13,7 @@ Creative, detail-oriented, software engineer with a deep interest in developing 
       <h3 align="center">Safe Bank Landing Page</h3>
         <br />
         <a target="_blank" href="https://texaseasybank.netlify.app">
-           <img src="demo/easybank.gif" width="500" height="%100"/>
+           <img src="demo/easybank.gif" width="100%" height="%100"/>
         </a>
         <br />
         <p align="center">
@@ -31,7 +31,7 @@ Creative, detail-oriented, software engineer with a deep interest in developing 
       <h3 align="center">Mansfield Menu</h3>
         <br />
       <a target="_blank" href="https://mansfieldmenu.netlify.app/">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+            <img src="demo/mansfieldmenu.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
