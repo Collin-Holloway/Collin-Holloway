@@ -28,19 +28,22 @@ Creative, detail-oriented, software engineer with a deep interest in developing 
         <p><strong>Javascript, CSS, Sass, & HTML</strong> - An accesable banking platform that is tablet, phone, and desktop ready.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Movie Search Database</h3>
+      <h3 align="center">Mansfield Menu</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+      <a target="_blank" href="https://mansfieldmenu.netlify.app/">
             <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Collin-Holloway/Movie-Search-Database" target="_blank">
+  <a href="https://github.com/Collin-Holloway/MansfieldMenu" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
+  <a href="https://mansfieldmenu.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
      </p>
-        <p><strong>Javascript, CSS, MongoDB, and HTML</strong> - A simple yet efficient movie search database. See the imporant information.</p>
+        <p><strong>Javascript, CSS, and HTML</strong> - A simple yet efficient movie search database. See the imporant information.</p>
     </td>
   </tr>
   
